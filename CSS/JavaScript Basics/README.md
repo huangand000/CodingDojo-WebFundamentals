@@ -1,0 +1,1 @@
+This program is built on HTML/CSS while emphasizes on division alignment. This program describes the basics of JavaScript.

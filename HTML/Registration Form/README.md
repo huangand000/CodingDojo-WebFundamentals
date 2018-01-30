@@ -1,0 +1,1 @@
+A registration form created purely from HTML asking for user input of their: First name, Last name, Email, Password, Birthday, Gender, Short description, Favorite programming language, and a submit button.

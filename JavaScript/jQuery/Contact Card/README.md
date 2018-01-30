@@ -1,0 +1,1 @@
+A program built with HTML/CSS/JavaScript/jQuery that requires user input to generate two flashcards with the full name on the front and the user description on the back when clicked on.

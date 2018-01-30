@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Contact Card</title>
+        <meta name="description" content="This is a contact card page where you can input contacts to a page and..">
+        <link rel="stylesheet" type="text/css" href="contact.css">
+        <script src= 'http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+        <script type="text/javascript" src="contact.js"></script>
+    </head>
+    <body>
+        <div id="wrapper">
+            <form>
+                <table cellspacing="5"> 
+                    <tbody>
+                        <tr>
+                            <td><label for="first_name">First Name:</label></td>
+                            <td><input type="text" id="first_name" name="first_name" size="10"></td>
+                        </tr>
+                        <tr>
+                            <td><label for="last_name">Last Name:</label></td>
+                            <td><input type="text" id="last_name" name="last_name" size="10"></td>
+                        </tr>
+                    </tbody>
+                </table>    
+                <div class="info">
+                    <p>Description:</p>
+                    <textarea placeholder="Enter Description:" class="description" rows="7" cols="22"></textarea>
+                </div>
+                <input class="btn" type="submit" value="Add User">
+            </form> 
+            <div class="users">
+                <!-- <div class="user">
+                    <h3 class="first"></h1>
+                    <p class="moreInfo"></p>
+                    <p class="back"></p>
+                    </div> -->
+            </div>
+
+        </div>
+    </body>
+</html>

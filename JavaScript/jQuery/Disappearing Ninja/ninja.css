@@ -1,0 +1,60 @@
+*{
+    margin:0px;
+    padding:0;
+}
+
+.img1{
+    border: 2px solid black;
+    position: fixed;
+    left: 0px;
+}
+
+.img2{
+    border: 2px solid black;
+    position: fixed;
+    left: 70px;
+}
+
+.img3{
+    border: 2px solid black;
+    position: fixed;
+    left: 140px;
+}
+
+.img4{
+    border: 2px solid black;
+    position: fixed;
+    left: 210px;
+}
+
+.img5{
+    border: 2px solid black;
+    position: fixed;
+    left: 0px;
+    top: 95px;
+}
+.img6{
+    border: 2px solid black;
+    position: fixed;
+    left: 70px;
+    top: 95px;
+}
+.img7{
+    border: 2px solid black;
+    position: fixed;
+    left: 140px;
+    top: 95px;
+}
+.img8{
+    border: 2px solid black;
+    position: fixed;
+    left: 210px;
+    top: 95px;
+}
+
+button{
+    margin-top: 200px;
+    margin-left: 115px;
+}
+
+

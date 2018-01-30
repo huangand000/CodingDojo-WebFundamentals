@@ -1,0 +1,1 @@
+A program built in HTML/CSS/JavaScipt/jQuery to generate an app that when each ninja is clicked, disappears. They all reappear after clicking the restore button.

@@ -1,0 +1,286 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper{
+    background: linear-gradient(#fbfbfb,#ffffff);
+}
+
+.title img{
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    position: relative;
+    top: 15px;
+}
+
+.title h1 span {
+    color: #25679f;
+}
+
+.title h1{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    position: relative;
+    top: 15px;
+    font-weight: 300;
+}
+
+.header{
+    background: linear-gradient(#25669f,#4f81ac,#25669f);
+    height: 50px;
+    width: 919px;
+    line-height: 50px;
+    color: #f1f5f8;
+}
+
+.header h2{
+    margin-left: 20px;
+    font-weight: 300;
+}
+
+.info{
+    margin: 20px 0px 0px 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.info h3 span{
+    color: #db3832;
+}
+.info p{
+    margin-top: 10px;
+    width: 180px;
+    height: 70px;
+}
+
+.info p span{
+    color:#326fa4;
+}
+.link1{
+    position:relative;
+    left: 5px;
+    background-color: #437fb1;
+    padding: 5px 26px;
+    border-radius: 10px;
+    color: #d8e5ef;
+    text-decoration: none;
+}
+
+.link2{
+    position: relative;
+    right: 174px;
+    top: 30px; 
+    background-color: #ee8300;
+    padding: 5px 16px;
+    border-radius: 10px;
+    color: #d8e5ef;
+    text-decoration: none;
+}
+
+.contact{
+    display: inline-block;
+}
+
+.dnsBox{
+    position:relative;
+    right: 130px;
+    top: 10px;
+}
+.dnsBox p{
+    display: inline-block;
+    color:#2d6ca2;
+}
+
+.homeIcon{
+    height: 18px;
+    width: 18px;
+}
+
+.phoneBox{
+    position: relative;
+    left: 380px;
+    bottom: 20px;
+}
+
+.phoneBox h2{
+    color:#05c1df;
+}
+
+.phoneIcon{
+    height:34px;
+    width:34px;
+    display: inline-block;
+    position: relative;
+    bottom: 5px;
+    right: 5px;
+}
+
+.number{
+    display:inline-block;
+}
+
+.number p{
+    font-size: 8pt;
+}
+
+.linebreak{
+    height: 2px;
+    width: 670px;
+    background-color:#bbbbbb;
+    position: relative;
+    left: 240px;
+    bottom: 72px;
+}
+
+.main{
+    display: inline-block;
+    height:1 00px;
+    width: 580px;
+    position: relative;
+    left: 250px;
+    bottom: 65px;
+}
+
+.main span, .main ul span{
+    color:#24a7bb;
+}
+
+.main h2{
+    font-size: 14pt;
+    color:#2a6aa1;
+}
+
+.main p, .main ul li{
+    font-size: 11pt;
+}
+
+.main ul{
+    position: relative;
+    left: 35px;
+    margin-top: 5px;
+}
+
+.main ul li{
+    margin-top: 5px;
+}
+
+.main img{
+    height: 75px;
+    width: 220px;
+    position: relative;
+    top: 5px;
+    left: 185px;
+}
+
+.linebreak2{
+    height: 2px;
+    width: 180px;
+    background-color:#bbbbbb;
+    position: relative;
+    bottom: 170px;
+    left: 10px;
+}
+
+.ninja{
+    display:inline-block;
+    height: 100px;
+    width: 70px;
+    position: relative;
+    bottom: 200px;
+    right: 133px;
+}
+
+.background{
+    display:inline-block;
+    height: 250px;
+    width: 180px;
+    position: relative;
+    bottom: 150px;
+    margin-left: 10px;
+}
+
+.ad h2{
+    display: inline-block;
+    font-size: 15.5pt;
+    font-weight: 300;
+    color: #e2e4e8;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    position: relative;
+    bottom: 310px;
+    right: 245px;
+}
+
+.ad input{
+    position:relative;
+    right: 365px;
+    bottom: 170px;
+}
+
+.directions{
+    position: relative;
+    display: inline-block;
+    width: 570px;
+    left: 290px;
+    bottom: 310px;
+}
+
+.directions h2{
+    font-size: 14pt;
+    position: relative;
+    right: 35px;
+    bottom: 3px;
+    color:#25679f;
+}
+
+.directions span{
+    color:#42b2c3;
+}
+
+.directions ol li{
+    margin-top: 5px;
+    font-size: 13.5px;
+}
+
+.big3{
+    display:inline-block;
+    position:relative;
+    bottom: 300px;
+    left: 260px;
+    height: 100px;
+    background-color:white;
+    border-top: 4px solid #0085e0;
+    border-left: 4px solid #0085e0;
+    border-right: 4px solid #0085e0;
+    padding: 8px;
+}
+
+.big3 h3{
+    color:#24669f;
+}
+
+.big3 a{
+    color:#26a9bc;
+    text-decoration: none;
+}
+
+.big3 img{
+    height: 80px;
+    width: 80px;
+    display:inline-block;
+}
+
+.big3text{
+    display:inline-block;
+    width: 490px;
+    height: 200px;
+}
+
+.big3text p{
+    font-size: 10pt;
+    margin-top: 3px;
+}

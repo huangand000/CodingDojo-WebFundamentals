@@ -1,0 +1,1 @@
+A program using HTML/CSS/JavaScript/jQuery to extract information from a jQuery UI library for jQuery implementation in JavaScript.

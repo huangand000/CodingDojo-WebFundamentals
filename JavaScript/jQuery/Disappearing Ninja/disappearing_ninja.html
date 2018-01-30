@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Disappearing Ninjas</title>
+        <meta name="description" content="Create a simple HTML page with..">
+        <link rel="stylesheet" type="text/css" href="ninja.css">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <div class="row1">
+            <img class="img1" src="ninja.png" alt="pic of a ninja">
+            <img class="img2" src="ninja.png" alt="pic of a ninja">
+            <img class="img3" src="ninja.png" alt="pic of a ninja">
+            <img class="img4" src="ninja.png" alt="pic of a ninja">
+        </div>
+        <div class row="row2">
+            <img class="img5" src="ninja.png" alt="pic of a ninja">
+            <img class="img6" src="ninja.png" alt="pic of a ninja">
+            <img class="img7" src="ninja.png" alt="pic of a ninja">
+            <img class="img8" src="ninja.png" alt="pic of a ninja">
+        </div>
+
+        <button>Restore</button>
+
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $("img").click(function(){
+                    $(this).hide();
+                });
+                
+                $("button").click(function(){
+                    $("img").show();
+                })
+            });
+        
+        </script>
+    </body>
+</html>

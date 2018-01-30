@@ -1,0 +1,1 @@
+A program built in HTML/CSS/JavaScript/jQuery to create an application that toggles between two different images when clicked on.

@@ -1,0 +1,155 @@
+#wrapper{
+    height: 800px;
+    width: 900px;
+    background-color:#dddfd4;
+    padding: 15px;
+}
+
+#header{
+    background-color:#38b0ad;
+    width: 880px;
+    height: 65px;
+}
+
+#header img{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#header h1{
+    display: inline-block;
+    position: relative;
+    bottom: 8px;
+}
+
+#header ul{
+    position: relative;
+    left: 240px;
+    bottom: 70px;
+}
+
+#header ul li{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#header a{
+    color: white;
+}
+
+#content{
+    height: 500px;
+    width: 850px;
+    background-color:#fbe691;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.box1{
+    display: inline-block;
+    height: 480px;
+    width: 210px;
+    background-color:#153f43;
+    padding: 10px;
+}
+
+.content2{
+    height: 400px;
+    width: 570px;
+    display: inline-block;
+    vertical-align:top;
+}
+
+.box2{
+    display: inline-block;
+    height: 160px;
+    width: 130px;
+    background-color:#153f43;
+    vertical-align:top;
+    margin-left: 35px;
+    padding: 10px;
+    
+}
+
+.box3{
+    display: inline-block;
+    height: 160px;
+    width: 130px;
+    background-color:#153f43;
+    vertical-align:top;
+    margin-left: 35px;
+    padding: 10px;
+}
+
+.box4{
+    display: inline-block;
+    height: 160px;
+    width: 130px;
+    background-color:#153f43;
+    vertical-align:top;
+    margin-left: 35px;
+    padding: 10px;
+}
+
+.box5{
+    display: inline-block;
+    height: 140px;
+    width: 225px;
+    background-color:#153f43;
+    margin-left: 35px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.box6{
+    display: inline-block;
+    height: 140px;
+    width: 225px;
+    background-color:#153f43;
+    margin-left: 38px;
+    padding: 10px;
+}
+
+.box7{
+    display: inline-block;
+    height: 100px;
+    width: 530px;
+    background-color:#153f43;
+    margin-left: 35px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#footer{
+    background-color: #38b0ad;
+    width: 880px;
+    height: 65px;
+    line-height: 65px;
+}
+
+#footer p{
+    margin-left: 230px;
+    margin-top: 10px;
+    position: relative;
+    top: 2px;
+    color: black;
+}
+
+p{
+    font-size: 10pt;
+    color: #d3d7cd;
+    position:relative;
+    bottom: 10px;
+}
+
+h2, h3{
+    color: #d3d7cd;
+    position:relative;
+    bottom: 10px;
+}
+
+span{
+    color:#49d1c1;
+}

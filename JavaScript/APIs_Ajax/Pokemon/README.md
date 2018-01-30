@@ -1,0 +1,1 @@
+A program that was built in HTML/CSS/JavaScript/jQuery/APIs/Ajax that extracts information from a pokemon API to create a pokedex application that when ever a pokemon is clicked, the information shows up in the pokedex.

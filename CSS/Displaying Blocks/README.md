@@ -1,0 +1,1 @@
+This program is built with HTML/CSS to demonstrate my abilities to align divisions by using margin, padding, and border properties.

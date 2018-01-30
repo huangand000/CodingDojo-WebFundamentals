@@ -1,0 +1,1 @@
+This program was built in HTML/CSS to demonstrate intermediate skills in incorporating any properties of CSS to recreate a portfolio.

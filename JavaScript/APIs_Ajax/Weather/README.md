@@ -1,0 +1,1 @@
+A program that was built in HTML/CSS/JavaScript/jQuery/API/Ajax that extracts information from a weather API to generate the weather of a user input location.
