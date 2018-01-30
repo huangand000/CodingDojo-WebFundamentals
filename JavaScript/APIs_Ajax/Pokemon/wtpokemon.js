@@ -8,6 +8,7 @@ $(document).ready(function(){
     var id = 0;
     $(document).on("click", ".pokemon", function(e) {
         $(".pokedex").html("");
+        console.log("yo");
         id = e.target.id;
         var type = "<ul>"
         $.get("https://pokeapi.co/api/v2/pokemon/"+ id+"/", function(pokemon) {
