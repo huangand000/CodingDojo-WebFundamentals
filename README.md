@@ -1,4 +1,4 @@
-CodingDojo-WebFundamentals
+Introduction to Web Development
 ========
 
 Basic front-end projects from simple HTML/CSS projects to API/AJAX/jQuery projects
