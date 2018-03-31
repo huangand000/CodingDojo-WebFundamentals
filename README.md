@@ -5,4 +5,3 @@ Basic front-end projects from simple HTML/CSS projects to API/AJAX/jQuery projec
 All projects are stored in their respective sections. 
 
 Enter to see my Introductory projects for Web Development!
-=======
